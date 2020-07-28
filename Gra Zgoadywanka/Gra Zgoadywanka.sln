@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMonolitycznie", "ConsoleAppMonolitycznie\ConsoleAppMonolitycznie.csproj", "{39DC176D-001A-4D8B-A83F-E36EC3B2839C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DC176D-001A-4D8B-A83F-E36EC3B2839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DC176D-001A-4D8B-A83F-E36EC3B2839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DC176D-001A-4D8B-A83F-E36EC3B2839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DC176D-001A-4D8B-A83F-E36EC3B2839C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FAA4F7F-8511-4C27-873B-D19C0889F48D}
+	EndGlobalSection
+EndGlobal
